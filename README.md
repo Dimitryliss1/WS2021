@@ -3,7 +3,6 @@
 
 Conda environment -- WS2021
 
-conda list
 absl-py                            0.11.0  
 alabaster                          0.7.12  
 anaconda-client                    1.7.2   
